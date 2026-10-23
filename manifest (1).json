@@ -2,10 +2,10 @@
   "background_color": "#ffffff",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Gpxconverter",
+  "name": "Gpxc",
   "orientation": "any",
   "scope": "/",
-  "short_name": "Gpxconverter",
+  "short_name": "shaheen0963.github",
   "start_url": "/",
-  "theme_color": "#ffffff"
+  "theme_color": "#2563eb"
 }
