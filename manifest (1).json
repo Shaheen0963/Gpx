@@ -1,0 +1,11 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Gpxconverter",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Gpxconverter",
+  "start_url": "/",
+  "theme_color": "#ffffff"
+}
